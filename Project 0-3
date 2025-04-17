@@ -5,6 +5,8 @@ AllowedVehiclesList = [
     'Tesla Cybertruck',
     'Toyota Tundra',
     'Nissan Titan',
+    'Rivian R1T',
+    'Ram 1500',
 ]
 
 # Function to print the list of vehicles
