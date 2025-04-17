@@ -28,7 +28,7 @@ def add_vehicle():
     print("Please Enter the full Vehicle name you would like to add:")
     new_vehicle = input().strip()
     AllowedVehiclesList.append(new_vehicle)
-    print(f'You have added "{new_vehicle}" as an authorized vehilce')
+    print(f'You have added "{new_vehicle}" as an authorized vehicle')
     
 # Function to display the menu and get user input
 def display_menu():
